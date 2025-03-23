@@ -13,7 +13,7 @@ function Layout() {
   return (
     <div className="flex h-screen bg-gray-900 text-white">
         <Sidebar />
-        <div className={`flex-1 flex flex-col transition-all duration-300 ml-8` }>
+        <div className={`flex-1 flex flex-col transition-all duration-300 ml-2 md:ml-8` }>
             <Navbar />        
             <main className="rounded-sm flex-1 overflow-y-scroll">
             <Routes>
