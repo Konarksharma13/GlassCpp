@@ -33,7 +33,6 @@ This project utilizes the following **modern web technologies**:
 - **Sidebar & Navbar Animation**: Smooth transitions using **Framer Motion**.  
 - **Active Page Highlighting**: Shows the current section in the sidebar.  
 - **Glassmorphism Theme**: Modern transparent, blurred background effect.  
-- **Dark Mode Support**: Ensuring a beautiful look across all devices.  
 - **Content Optimization**: Enhancing readability with a clean layout.
 
 ## 📱 Responsive Design
